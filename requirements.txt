@@ -1,0 +1,4 @@
+numpy>=2.2.3
+tensorflow>=2.20.0
+matplotlib>=3.10.7
+ipython>=9.7.0
